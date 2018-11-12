@@ -1,0 +1,11 @@
+beginp
+
+int a ;
+a = 5 ;
+int b ;
+b = 10 ;
+
+write a ;
+write b ;
+
+endp
