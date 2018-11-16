@@ -1,0 +1,15 @@
+N:
+S B C
+E:
+a b
+P:
+S -> a B
+S -> b B
+B -> Eps
+B -> a S
+B -> b C
+B -> b
+C -> b C
+C -> b
+S:
+S
