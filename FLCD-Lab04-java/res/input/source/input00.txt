@@ -1,4 +1,0 @@
-beginp
-int a ;
-write a
-endp
